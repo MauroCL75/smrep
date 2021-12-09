@@ -1,0 +1,2 @@
+# smrep
+Simple mongodb replication
